@@ -78,7 +78,6 @@ function validateForm(){
     } else {
         dateError.textContent = "correct";
         dateError.style.color = "green";
-
     }
 
     //  mot de passe
